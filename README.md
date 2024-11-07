@@ -11,9 +11,9 @@ Full Stack Developer passionate about creating intuitive and scalable web soluti
 
 🌱 I'm currently learning:
 - Advanced Node.js Patterns
-- Machine Learning with Python
+- Machine Learning with Python at Enfoca`t Barcelona
 - Full Stack Development at ISDI Coders
-- AI & ML at La Salle Barcelona
+- Frontend Develop at La Salle Campus Barcelona
 
 💞️ I'm looking to collaborate on:
 - Open Source Projects
@@ -30,7 +30,7 @@ Full Stack Developer passionate about creating intuitive and scalable web soluti
 
 📫 How to reach me:
 - 📧 Email: maryqr21@gmail.com
-- 🌐 Portfolio: https://maryquiroz.vercel.app/
+- 🌐 Portfolio: https://maryquiroz.github.io/myportfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/maryquiroz/
 
 😄 Pronouns: She/Her
